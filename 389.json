@@ -1,0 +1,15 @@
+{
+	"key": "389",
+	"albumTitle": "Misplaced Childhood",
+	"albumUrl": "/content/images/MisplacedChildhood.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Marillion",
+	"orderableOnline": false,
+	"tags": ["Marillion", "Rock"],
+	"price": 7.21,
+	"margin": 84,
+	"rating": 1,
+	"inventory": 686,
+	"lastUpdated": "2013-02-10T13:51:31Z"
+}

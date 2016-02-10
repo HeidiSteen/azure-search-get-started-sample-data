@@ -1,0 +1,15 @@
+{
+	"key": "474",
+	"albumTitle": "The Battle Rages On",
+	"albumUrl": "/content/images/TheBattleRagesOn.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Deep Purple",
+	"orderableOnline": true,
+	"tags": ["Deep", "Purple", "Rock"],
+	"price": 6.21,
+	"margin": 20,
+	"rating": 3,
+	"inventory": 113,
+	"lastUpdated": "2011-03-10T11:41:00Z"
+}

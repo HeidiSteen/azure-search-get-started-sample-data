@@ -1,0 +1,15 @@
+{
+	"key": "430",
+	"albumTitle": "War",
+	"albumUrl": "/content/images/War.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "U2",
+	"orderableOnline": false,
+	"tags": ["U2", "Rock"],
+	"price": 6.19,
+	"margin": 38,
+	"rating": 1,
+	"inventory": 820,
+	"lastUpdated": "2012-04-04T18:48:19Z"
+}

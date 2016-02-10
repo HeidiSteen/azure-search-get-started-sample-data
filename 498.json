@@ -1,0 +1,15 @@
+{
+	"key": "498",
+	"albumTitle": "Are You Experienced?",
+	"albumUrl": "/content/images/AreYouExperienced?.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Jimi Hendrix",
+	"orderableOnline": true,
+	"tags": ["Jimi", "Hendrix", "Rock"],
+	"price": 6.28,
+	"margin": 11,
+	"rating": 2,
+	"inventory": 105,
+	"lastUpdated": "2012-11-25T07:36:14Z"
+}

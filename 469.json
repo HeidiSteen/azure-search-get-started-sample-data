@@ -1,0 +1,15 @@
+{
+	"key": "469",
+	"albumTitle": "Machine Head",
+	"albumUrl": "/content/images/MachineHead.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Deep Purple",
+	"orderableOnline": true,
+	"tags": ["Deep", "Purple", "Rock"],
+	"price": 9.20,
+	"margin": 12,
+	"rating": 1,
+	"inventory": 120,
+	"lastUpdated": "2012-12-06T00:54:42Z"
+}

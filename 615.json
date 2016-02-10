@@ -1,0 +1,15 @@
+{
+	"key": "615",
+	"albumTitle": "Live [Disc 1]",
+	"albumUrl": "/content/images/LiveDisc1.jpg",
+	"genre": "Blues",
+	"genreDescription": "The blues is a form of music that started in the United States during the start of the 20th century. It was started by former African slaves from spirituals, praise songs, and chants. The first blues songs were called Delta blues. These songs came from the area near the mouth of the Mississippi River.",
+	"artistName": "The Black Crowes",
+	"orderableOnline": true,
+	"tags": ["The", "Black", "Crowes", "Blues"],
+	"price": 6.89,
+	"margin": 14,
+	"rating": 1,
+	"inventory": 117,
+	"lastUpdated": "2012-12-13T17:00:21Z"
+}

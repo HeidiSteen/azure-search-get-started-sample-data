@@ -1,0 +1,15 @@
+{
+	"key": "436",
+	"albumTitle": "Contraband",
+	"albumUrl": "/content/images/Contraband.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Velvet Revolver",
+	"orderableOnline": true,
+	"tags": ["Velvet", "Revolver", "Rock"],
+	"price": 6.18,
+	"margin": 19,
+	"rating": 1,
+	"inventory": 186,
+	"lastUpdated": "2012-03-04T11:44:07Z"
+}

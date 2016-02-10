@@ -1,0 +1,15 @@
+{
+	"key": "457",
+	"albumTitle": "Big Ones",
+	"albumUrl": "/content/images/BigOnes.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Aerosmith",
+	"orderableOnline": true,
+	"tags": ["Aerosmith", "Rock"],
+	"price": 11.54,
+	"margin": 55,
+	"rating": 4,
+	"inventory": 582,
+	"lastUpdated": "2010-08-30T08:45:45Z"
+}

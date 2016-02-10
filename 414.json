@@ -1,0 +1,15 @@
+{
+	"key": "414",
+	"albumTitle": "Core",
+	"albumUrl": "/content/images/Core.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Stone Temple Pilots",
+	"orderableOnline": false,
+	"tags": ["Stone", "Temple", "Pilots", "Rock"],
+	"price": 9.11,
+	"margin": 18,
+	"rating": 2,
+	"inventory": 107,
+	"lastUpdated": "2013-01-11T14:13:55Z"
+}

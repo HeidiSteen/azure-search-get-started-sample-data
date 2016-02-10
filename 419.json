@@ -1,0 +1,15 @@
+{
+	"key": "419",
+	"albumTitle": "The Police Greatest Hits",
+	"albumUrl": "/content/images/ThePoliceGreatestHits.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "The Police",
+	"orderableOnline": true,
+	"tags": ["The", "Police", "Rock"],
+	"price": 6.32,
+	"margin": 12,
+	"rating": 1,
+	"inventory": 166,
+	"lastUpdated": "2012-12-02T20:34:32Z"
+}

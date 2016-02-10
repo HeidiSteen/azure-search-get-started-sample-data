@@ -1,0 +1,15 @@
+{
+	"key": "448",
+	"albumTitle": "Led Zeppelin I",
+	"albumUrl": "/content/images/LedZeppelinI.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Led Zeppelin",
+	"orderableOnline": false,
+	"tags": ["Led", "Zeppelin", "Rock"],
+	"price": 6.12,
+	"margin": 13,
+	"rating": 1,
+	"inventory": 534,
+	"lastUpdated": "2013-01-14T04:27:30Z"
+}

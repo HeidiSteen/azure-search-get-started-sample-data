@@ -1,0 +1,15 @@
+{
+	"key": "620",
+	"albumTitle": "Iron Maiden",
+	"albumUrl": "/content/images/IronMaiden.jpg",
+	"genre": "Blues",
+	"genreDescription": "The blues is a form of music that started in the United States during the start of the 20th century. It was started by former African slaves from spirituals, praise songs, and chants. The first blues songs were called Delta blues. These songs came from the area near the mouth of the Mississippi River.",
+	"artistName": "Iron Maiden",
+	"orderableOnline": true,
+	"tags": ["Iron", "Maiden", "Blues"],
+	"price": 6.24,
+	"margin": 10,
+	"rating": 3,
+	"inventory": 616,
+	"lastUpdated": "2010-06-14T15:53:44Z"
+}

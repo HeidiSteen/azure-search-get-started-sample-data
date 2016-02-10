@@ -1,0 +1,15 @@
+{
+	"key": "403",
+	"albumTitle": "Ten",
+	"albumUrl": "/content/images/Ten.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Pearl Jam",
+	"orderableOnline": false,
+	"tags": ["Pearl", "Jam", "Rock"],
+	"price": 11.17,
+	"margin": 17,
+	"rating": 2,
+	"inventory": 491,
+	"lastUpdated": "2013-01-19T16:51:40Z"
+}

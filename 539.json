@@ -1,0 +1,15 @@
+{
+	"key": "539",
+	"albumTitle": "Berlioz: Symphonie Fantastique",
+	"albumUrl": "/content/images/Berlioz:SymphonieFantastique.jpg",
+	"genre": "Classical",
+	"genreDescription": "Classical music is a very general term which normally refers to the standard music of countries in the Western world. It is music that has been composed by musicians who are trained in the art of writing music (composing) and written down in music notation so that other musicians can play it. Classical music can also be described as art music because great art (skill) is needed to compose it and to perform it well. Classical music differs from pop music because it is not made just in order to be popular for a short time or just to be a commercial success.",
+	"artistName": "Michael Tilson Thomas & San Francisco Symphony",
+	"orderableOnline": false,
+	"tags": ["Michael", "Tilson", "Thomas", "&", "San", "Francisco", "Symphony", "Classical"],
+	"price": 6.18,
+	"margin": 11,
+	"rating": 1,
+	"inventory": 139,
+	"lastUpdated": "2012-02-04T10:48:37Z"
+}

@@ -1,0 +1,15 @@
+{
+	"key": "394",
+	"albumTitle": "Bark at the Moon (Remastered)",
+	"albumUrl": "/content/images/BarkattheMoonRemastered.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Ozzy Osbourne",
+	"orderableOnline": true,
+	"tags": ["Ozzy", "Osbourne", "Rock"],
+	"price": 7.21,
+	"margin": 11,
+	"rating": 1,
+	"inventory": 822,
+	"lastUpdated": "2010-05-12T14:23:13Z"
+}

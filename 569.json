@@ -1,0 +1,15 @@
+{
+	"key": "569",
+	"albumTitle": "Warner 25 Anos",
+	"albumUrl": "/content/images/Warner25Anos.jpg",
+	"genre": "Jazz",
+	"genreDescription": "Jazz is a type of music which was invented in the United States. Jazz music combines African-American music with European music. Some common jazz instruments include the saxophone, trumpet, piano, double bass, and drums.",
+	"artistName": "Antônio Carlos Jobim",
+	"orderableOnline": true,
+	"tags": ["Antônio", "Carlos", "Jobim", "Jazz"],
+	"price": 6.13,
+	"margin": 17,
+	"rating": 1,
+	"inventory": 128,
+	"lastUpdated": "2012-09-27T04:11:01Z"
+}

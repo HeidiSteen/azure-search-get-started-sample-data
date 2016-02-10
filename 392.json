@@ -1,0 +1,15 @@
+{
+	"key": "392",
+	"albumTitle": "Nevermind",
+	"albumUrl": "/content/images/Nevermind.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Nirvana",
+	"orderableOnline": true,
+	"tags": ["Nirvana", "Rock"],
+	"price": 6.17,
+	"margin": 57,
+	"rating": 4,
+	"inventory": 911,
+	"lastUpdated": "2012-10-31T20:24:49Z"
+}

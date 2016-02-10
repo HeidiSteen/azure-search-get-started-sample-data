@@ -1,0 +1,15 @@
+{
+	"key": "618",
+	"albumTitle": "The Cream Of Clapton",
+	"albumUrl": "/content/images/TheCreamOfClapton.jpg",
+	"genre": "Blues",
+	"genreDescription": "The blues is a form of music that started in the United States during the start of the 20th century. It was started by former African slaves from spirituals, praise songs, and chants. The first blues songs were called Delta blues. These songs came from the area near the mouth of the Mississippi River.",
+	"artistName": "Eric Clapton",
+	"orderableOnline": false,
+	"tags": ["Eric", "Clapton", "Blues"],
+	"price": 6.39,
+	"margin": 41,
+	"rating": 3,
+	"inventory": 170,
+	"lastUpdated": "2011-11-16T15:31:57Z"
+}

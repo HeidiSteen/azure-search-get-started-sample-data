@@ -1,0 +1,15 @@
+{
+	"key": "572",
+	"albumTitle": "The Essential Miles Davis [Disc 2]",
+	"albumUrl": "/content/images/TheEssentialMilesDavisDisc2.jpg",
+	"genre": "Jazz",
+	"genreDescription": "Jazz is a type of music which was invented in the United States. Jazz music combines African-American music with European music. Some common jazz instruments include the saxophone, trumpet, piano, double bass, and drums.",
+	"artistName": "Miles Davis",
+	"orderableOnline": false,
+	"tags": ["Miles", "Davis", "Jazz"],
+	"price": 9.15,
+	"margin": 58,
+	"rating": 4,
+	"inventory": 128,
+	"lastUpdated": "2013-02-02T05:10:32Z"
+}

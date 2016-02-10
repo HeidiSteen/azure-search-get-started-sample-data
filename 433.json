@@ -1,0 +1,15 @@
+{
+	"key": "433",
+	"albumTitle": "The Best Of Van Halen, Vol. I",
+	"albumUrl": "/content/images/TheBestOfVanHalen,VolI.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Van Halen",
+	"orderableOnline": true,
+	"tags": ["Van", "Halen", "Rock"],
+	"price": 8.12,
+	"margin": 12,
+	"rating": 3,
+	"inventory": 565,
+	"lastUpdated": "2011-09-21T14:43:28Z"
+}

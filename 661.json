@@ -1,0 +1,15 @@
+{
+	"key": "661",
+	"albumTitle": "UB40 The Best Of - Volume Two [UK]",
+	"albumUrl": "/content/images/UB40TheBestOfVolumeTwoUK.jpg",
+	"genre": "Reggae",
+	"genreDescription": "Reggae is a music genre first developed in Jamaica in the late 1960s. While sometimes used in a broader sense to refer to most types of Jamaican music, the term reggae more properly denotes a particular music style that originated following on the development of ska and rocksteady.",
+	"artistName": "UB40",
+	"orderableOnline": true,
+	"tags": ["UB40", "Reggae"],
+	"price": 11.24,
+	"margin": 50,
+	"rating": 1,
+	"inventory": 114,
+	"lastUpdated": "2013-01-02T03:41:29Z"
+}

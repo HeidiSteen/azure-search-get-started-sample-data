@@ -1,0 +1,15 @@
+{
+	"key": "515",
+	"albumTitle": "A Soprano Inspired",
+	"albumUrl": "/content/images/ASopranoInspired.jpg",
+	"genre": "Classical",
+	"genreDescription": "Classical music is a very general term which normally refers to the standard music of countries in the Western world. It is music that has been composed by musicians who are trained in the art of writing music (composing) and written down in music notation so that other musicians can play it. Classical music can also be described as art music because great art (skill) is needed to compose it and to perform it well. Classical music differs from pop music because it is not made just in order to be popular for a short time or just to be a commercial success.",
+	"artistName": "Britten Sinfonia, Ivor Bolton & Lesley Garrett",
+	"orderableOnline": true,
+	"tags": ["Britten", "Sinfonia,", "Ivor", "Bolton", "&", "Lesley", "Garrett", "Classical"],
+	"price": 6.98,
+	"margin": 21,
+	"rating": 5,
+	"inventory": 733,
+	"lastUpdated": "2012-11-28T09:57:34Z"
+}

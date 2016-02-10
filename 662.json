@@ -1,0 +1,15 @@
+{
+	"key": "662",
+	"albumTitle": "Acústico MTV [Live]",
+	"albumUrl": "/content/images/AcústicoMTVLive.jpg",
+	"genre": "Reggae",
+	"genreDescription": "Reggae is a music genre first developed in Jamaica in the late 1960s. While sometimes used in a broader sense to refer to most types of Jamaican music, the term reggae more properly denotes a particular music style that originated following on the development of ska and rocksteady.",
+	"artistName": "Cidade Negra",
+	"orderableOnline": true,
+	"tags": ["Cidade", "Negra", "Reggae"],
+	"price": 6.11,
+	"margin": 18,
+	"rating": 1,
+	"inventory": 913,
+	"lastUpdated": "2011-12-04T19:34:21Z"
+}

@@ -1,0 +1,15 @@
+{
+	"key": "666",
+	"albumTitle": "Frank",
+	"albumUrl": "/content/images/Frank.jpg",
+	"genre": "Pop",
+	"genreDescription": "Pop music is a music genre that developed from the mid-1950s as a softer alternative to rock 'n' roll and later to rock music. It has a focus on commercial recording, often oriented towards a youth market, usually through the medium of relatively short and simple love songs. While these basic elements of the genre have remained fairly constant, pop music has absorbed influences from most other forms of popular music, particularly borrowing from the development of rock music, and utilizing key technological innovations to produce new variations on existing themes.",
+	"artistName": "Amy Winehouse",
+	"orderableOnline": true,
+	"tags": ["Amy", "Winehouse", "Pop"],
+	"price": 7.37,
+	"margin": 94,
+	"rating": 1,
+	"inventory": 143,
+	"lastUpdated": "2011-03-03T21:12:05Z"
+}

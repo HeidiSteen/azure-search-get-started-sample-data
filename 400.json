@@ -1,0 +1,15 @@
+{
+	"key": "400",
+	"albumTitle": "The Beast Live",
+	"albumUrl": "/content/images/TheBeastLive.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Paul D'Ianno",
+	"orderableOnline": true,
+	"tags": ["Paul", "D'Ianno", "Rock"],
+	"price": 6.27,
+	"margin": 11,
+	"rating": 4,
+	"inventory": 179,
+	"lastUpdated": "2012-12-30T05:00:34Z"
+}

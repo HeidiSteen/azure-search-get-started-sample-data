@@ -1,0 +1,15 @@
+{
+	"key": "584",
+	"albumTitle": "Chemical Wedding",
+	"albumUrl": "/content/images/ChemicalWedding.jpg",
+	"genre": "Metal",
+	"genreDescription": "Heavy Metal is a loud, aggressive style of Rock music. The bands who play heavy-metal music usually have one or two guitars, a bass guitar and drums. In some bands, electronic keyboards, organs, or other instruments are used. Heavy metal songs are loud and powerful-sounding, and have strong rhythms that are repeated. There are many different types of Heavy Metal, some of which are described below. Heavy metal bands sometimes dress in jeans, leather jackets, and leather boots, and have long hair. Heavy metal bands sometimes behave in a dramatic way when they play their instruments or sing. However, many heavy metal bands do not like to do this.",
+	"artistName": "Bruce Dickinson",
+	"orderableOnline": true,
+	"tags": ["Bruce", "Dickinson", "Metal"],
+	"price": 7.10,
+	"margin": 41,
+	"rating": 1,
+	"inventory": 179,
+	"lastUpdated": "2012-12-22T00:13:46Z"
+}

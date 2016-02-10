@@ -1,0 +1,15 @@
+{
+	"key": "405",
+	"albumTitle": "Dark Side Of The Moon",
+	"albumUrl": "/content/images/DarkSideOfTheMoon.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Pink Floyd",
+	"orderableOnline": true,
+	"tags": ["Pink", "Floyd", "Rock"],
+	"price": 6.15,
+	"margin": 71,
+	"rating": 1,
+	"inventory": 178,
+	"lastUpdated": "2011-06-06T17:30:09Z"
+}

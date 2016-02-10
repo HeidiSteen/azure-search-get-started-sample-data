@@ -1,0 +1,15 @@
+{
+	"key": "421",
+	"albumTitle": "No Security",
+	"albumUrl": "/content/images/NoSecurity.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "The Rolling Stones",
+	"orderableOnline": true,
+	"tags": ["The", "Rolling", "Stones", "Rock"],
+	"price": 11.14,
+	"margin": 13,
+	"rating": 3,
+	"inventory": 108,
+	"lastUpdated": "2011-09-20T13:32:21Z"
+}

@@ -1,0 +1,15 @@
+{
+	"key": "420",
+	"albumTitle": "Hot Rocks, 1964-1971 (Disc 1)",
+	"albumUrl": "/content/images/HotRocks,19641971Disc1.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "The Rolling Stones",
+	"orderableOnline": false,
+	"tags": ["The", "Rolling", "Stones", "Rock"],
+	"price": 6.20,
+	"margin": 42,
+	"rating": 4,
+	"inventory": 131,
+	"lastUpdated": "2012-12-17T00:43:39Z"
+}

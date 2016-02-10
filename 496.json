@@ -1,0 +1,15 @@
+{
+	"key": "496",
+	"albumTitle": "Virtual XI",
+	"albumUrl": "/content/images/VirtualXI.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Iron Maiden",
+	"orderableOnline": false,
+	"tags": ["Iron", "Maiden", "Rock"],
+	"price": 6.11,
+	"margin": 10,
+	"rating": 5,
+	"inventory": 387,
+	"lastUpdated": "2012-08-26T22:39:10Z"
+}

@@ -1,0 +1,15 @@
+{
+	"key": "540",
+	"albumTitle": "Prokofiev: Romeo & Juliet",
+	"albumUrl": "/content/images/Prokofiev:Romeo&Juliet.jpg",
+	"genre": "Classical",
+	"genreDescription": "Classical music is a very general term which normally refers to the standard music of countries in the Western world. It is music that has been composed by musicians who are trained in the art of writing music (composing) and written down in music notation so that other musicians can play it. Classical music can also be described as art music because great art (skill) is needed to compose it and to perform it well. Classical music differs from pop music because it is not made just in order to be popular for a short time or just to be a commercial success.",
+	"artistName": "Michael Tilson Thomas & San Francisco Symphony",
+	"orderableOnline": true,
+	"tags": ["Michael", "Tilson", "Thomas", "&", "San", "Francisco", "Symphony", "Classical"],
+	"price": 6.61,
+	"margin": 16,
+	"rating": 2,
+	"inventory": 315,
+	"lastUpdated": "2013-01-26T02:58:19Z"
+}

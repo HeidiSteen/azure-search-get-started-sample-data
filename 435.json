@@ -1,0 +1,15 @@
+{
+	"key": "435",
+	"albumTitle": "Van Halen",
+	"albumUrl": "/content/images/VanHalen.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Van Halen",
+	"orderableOnline": false,
+	"tags": ["Van", "Halen", "Rock"],
+	"price": 6.11,
+	"margin": 16,
+	"rating": 2,
+	"inventory": 133,
+	"lastUpdated": "2012-12-16T11:46:05Z"
+}

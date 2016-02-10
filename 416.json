@@ -1,0 +1,15 @@
+{
+	"key": "416",
+	"albumTitle": "Beyond Good And Evil",
+	"albumUrl": "/content/images/BeyondGoodAndEvil.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "The Cult",
+	"orderableOnline": true,
+	"tags": ["The", "Cult", "Rock"],
+	"price": 6.66,
+	"margin": 20,
+	"rating": 1,
+	"inventory": 107,
+	"lastUpdated": "2011-09-19T15:02:02Z"
+}

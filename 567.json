@@ -1,0 +1,15 @@
+{
+	"key": "567",
+	"albumTitle": "Heart of the Night",
+	"albumUrl": "/content/images/HeartoftheNight.jpg",
+	"genre": "Jazz",
+	"genreDescription": "Jazz is a type of music which was invented in the United States. Jazz music combines African-American music with European music. Some common jazz instruments include the saxophone, trumpet, piano, double bass, and drums.",
+	"artistName": "Spyro Gyra",
+	"orderableOnline": true,
+	"tags": ["Spyro", "Gyra", "Jazz"],
+	"price": 6.15,
+	"margin": 17,
+	"rating": 1,
+	"inventory": 166,
+	"lastUpdated": "2013-01-14T15:33:07Z"
+}

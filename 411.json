@@ -1,0 +1,15 @@
+{
+	"key": "411",
+	"albumTitle": "Maquinarama",
+	"albumUrl": "/content/images/Maquinarama.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Skank",
+	"orderableOnline": true,
+	"tags": ["Skank", "Rock"],
+	"price": 6.10,
+	"margin": 50,
+	"rating": 1,
+	"inventory": 161,
+	"lastUpdated": "2013-02-15T09:18:28Z"
+}

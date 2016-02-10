@@ -1,0 +1,15 @@
+{
+	"key": "409",
+	"albumTitle": "Californication",
+	"albumUrl": "/content/images/Californication.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Red Hot Chili Peppers",
+	"orderableOnline": true,
+	"tags": ["Red", "Hot", "Chili", "Peppers", "Rock"],
+	"price": 7.46,
+	"margin": 87,
+	"rating": 3,
+	"inventory": 103,
+	"lastUpdated": "2012-10-22T07:53:09Z"
+}

@@ -1,0 +1,15 @@
+{
+	"key": "663",
+	"albumTitle": "Cidade Negra - Hits",
+	"albumUrl": "/content/images/CidadeNegraHits.jpg",
+	"genre": "Reggae",
+	"genreDescription": "Reggae is a music genre first developed in Jamaica in the late 1960s. While sometimes used in a broader sense to refer to most types of Jamaican music, the term reggae more properly denotes a particular music style that originated following on the development of ska and rocksteady.",
+	"artistName": "Cidade Negra",
+	"orderableOnline": true,
+	"tags": ["Cidade", "Negra", "Reggae"],
+	"price": 6.40,
+	"margin": 71,
+	"rating": 1,
+	"inventory": 108,
+	"lastUpdated": "2012-05-23T05:56:09Z"
+}

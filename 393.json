@@ -1,0 +1,15 @@
+{
+	"key": "393",
+	"albumTitle": "Compositores",
+	"albumUrl": "/content/images/Compositores.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "O Terço",
+	"orderableOnline": true,
+	"tags": ["O", "Terço", "Rock"],
+	"price": 6.36,
+	"margin": 65,
+	"rating": 5,
+	"inventory": 903,
+	"lastUpdated": "2011-12-01T09:28:39Z"
+}

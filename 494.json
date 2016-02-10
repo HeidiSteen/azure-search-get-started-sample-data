@@ -1,0 +1,15 @@
+{
+	"key": "494",
+	"albumTitle": "The Number of The Beast",
+	"albumUrl": "/content/images/TheNumberofTheBeast.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Iron Maiden",
+	"orderableOnline": true,
+	"tags": ["Iron", "Maiden", "Rock"],
+	"price": 6.74,
+	"margin": 20,
+	"rating": 1,
+	"inventory": 146,
+	"lastUpdated": "2012-11-16T14:05:37Z"
+}

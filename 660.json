@@ -1,0 +1,15 @@
+{
+	"key": "660",
+	"albumTitle": "Greatest Hits",
+	"albumUrl": "/content/images/GreatestHits.jpg",
+	"genre": "Reggae",
+	"genreDescription": "Reggae is a music genre first developed in Jamaica in the late 1960s. While sometimes used in a broader sense to refer to most types of Jamaican music, the term reggae more properly denotes a particular music style that originated following on the development of ska and rocksteady.",
+	"artistName": "Lenny Kravitz",
+	"orderableOnline": true,
+	"tags": ["Lenny", "Kravitz", "Reggae"],
+	"price": 7.24,
+	"margin": 75,
+	"rating": 1,
+	"inventory": 166,
+	"lastUpdated": "2012-09-30T18:51:01Z"
+}

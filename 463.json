@@ -1,0 +1,15 @@
+{
+	"key": "463",
+	"albumTitle": "Greatest Kiss",
+	"albumUrl": "/content/images/GreatestKiss.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Kiss",
+	"orderableOnline": true,
+	"tags": ["Kiss", "Rock"],
+	"price": 6.15,
+	"margin": 10,
+	"rating": 1,
+	"inventory": 140,
+	"lastUpdated": "2012-12-21T02:39:47Z"
+}

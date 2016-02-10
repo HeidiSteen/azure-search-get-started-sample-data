@@ -1,0 +1,15 @@
+{
+	"key": "568",
+	"albumTitle": "Morning Dance",
+	"albumUrl": "/content/images/MorningDance.jpg",
+	"genre": "Jazz",
+	"genreDescription": "Jazz is a type of music which was invented in the United States. Jazz music combines African-American music with European music. Some common jazz instruments include the saxophone, trumpet, piano, double bass, and drums.",
+	"artistName": "Spyro Gyra",
+	"orderableOnline": true,
+	"tags": ["Spyro", "Gyra", "Jazz"],
+	"price": 6.87,
+	"margin": 20,
+	"rating": 1,
+	"inventory": 686,
+	"lastUpdated": "2011-09-08T12:10:20Z"
+}

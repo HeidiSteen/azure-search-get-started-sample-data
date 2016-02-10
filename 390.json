@@ -1,0 +1,15 @@
+{
+	"key": "390",
+	"albumTitle": "The Best Of Men At Work",
+	"albumUrl": "/content/images/TheBestOfMenAtWork.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Men At Work",
+	"orderableOnline": true,
+	"tags": ["Men", "At", "Work", "Rock"],
+	"price": 9.96,
+	"margin": 12,
+	"rating": 1,
+	"inventory": 112,
+	"lastUpdated": "2012-11-13T08:38:28Z"
+}

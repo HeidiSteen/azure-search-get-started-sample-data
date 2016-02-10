@@ -1,0 +1,15 @@
+{
+	"key": "574",
+	"albumTitle": "Blue Moods",
+	"albumUrl": "/content/images/BlueMoods.jpg",
+	"genre": "Jazz",
+	"genreDescription": "Jazz is a type of music which was invented in the United States. Jazz music combines African-American music with European music. Some common jazz instruments include the saxophone, trumpet, piano, double bass, and drums.",
+	"artistName": "Incognito",
+	"orderableOnline": true,
+	"tags": ["Incognito", "Jazz"],
+	"price": 7.13,
+	"margin": 12,
+	"rating": 1,
+	"inventory": 143,
+	"lastUpdated": "2010-09-06T23:30:33Z"
+}

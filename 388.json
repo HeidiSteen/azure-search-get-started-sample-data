@@ -1,0 +1,15 @@
+{
+	"key": "388",
+	"albumTitle": "Greatest Hits",
+	"albumUrl": "/content/images/GreatestHits.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Lenny Kravitz",
+	"orderableOnline": false,
+	"tags": ["Lenny", "Kravitz", "Rock"],
+	"price": 9.30,
+	"margin": 52,
+	"rating": 3,
+	"inventory": 186,
+	"lastUpdated": "2013-02-18T06:22:26Z"
+}

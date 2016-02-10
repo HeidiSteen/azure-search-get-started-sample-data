@@ -1,0 +1,15 @@
+{
+	"key": "437",
+	"albumTitle": "Un-Led-Ed",
+	"albumUrl": "/content/images/UnLedEd.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Dread Zeppelin",
+	"orderableOnline": false,
+	"tags": ["Dread", "Zeppelin", "Rock"],
+	"price": 12.14,
+	"margin": 18,
+	"rating": 4,
+	"inventory": 821,
+	"lastUpdated": "2012-10-24T12:23:42Z"
+}

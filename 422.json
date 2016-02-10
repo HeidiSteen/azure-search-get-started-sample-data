@@ -1,0 +1,15 @@
+{
+	"key": "422",
+	"albumTitle": "Voodoo Lounge",
+	"albumUrl": "/content/images/VoodooLounge.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "The Rolling Stones",
+	"orderableOnline": true,
+	"tags": ["The", "Rolling", "Stones", "Rock"],
+	"price": 6.17,
+	"margin": 17,
+	"rating": 3,
+	"inventory": 514,
+	"lastUpdated": "2013-02-04T09:54:34Z"
+}

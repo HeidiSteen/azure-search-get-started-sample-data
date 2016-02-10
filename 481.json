@@ -1,0 +1,15 @@
+{
+	"key": "481",
+	"albumTitle": "Audioslave",
+	"albumUrl": "/content/images/Audioslave.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Audioslave",
+	"orderableOnline": true,
+	"tags": ["Audioslave", "Rock"],
+	"price": 7.56,
+	"margin": 15,
+	"rating": 1,
+	"inventory": 210,
+	"lastUpdated": "2012-11-12T00:45:13Z"
+}

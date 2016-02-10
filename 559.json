@@ -1,0 +1,15 @@
+{
+	"key": "559",
+	"albumTitle": "Nielsen: The Six Symphonies",
+	"albumUrl": "/content/images/Nielsen:TheSixSymphonies.jpg",
+	"genre": "Classical",
+	"genreDescription": "Classical music is a very general term which normally refers to the standard music of countries in the Western world. It is music that has been composed by musicians who are trained in the art of writing music (composing) and written down in music notation so that other musicians can play it. Classical music can also be described as art music because great art (skill) is needed to compose it and to perform it well. Classical music differs from pop music because it is not made just in order to be popular for a short time or just to be a commercial success.",
+	"artistName": "Göteborgs Symfoniker & Neeme Järvi",
+	"orderableOnline": false,
+	"tags": ["Göteborgs", "Symfoniker", "&", "Neeme", "Järvi", "Classical"],
+	"price": 14.15,
+	"margin": 20,
+	"rating": 1,
+	"inventory": 121,
+	"lastUpdated": "2012-12-09T14:16:48Z"
+}

@@ -1,0 +1,15 @@
+{
+	"key": "573",
+	"albumTitle": "Outbreak",
+	"albumUrl": "/content/images/Outbreak.jpg",
+	"genre": "Jazz",
+	"genreDescription": "Jazz is a type of music which was invented in the United States. Jazz music combines African-American music with European music. Some common jazz instruments include the saxophone, trumpet, piano, double bass, and drums.",
+	"artistName": "Dennis Chambers",
+	"orderableOnline": false,
+	"tags": ["Dennis", "Chambers", "Jazz"],
+	"price": 13.54,
+	"margin": 52,
+	"rating": 2,
+	"inventory": 156,
+	"lastUpdated": "2012-10-25T14:50:49Z"
+}

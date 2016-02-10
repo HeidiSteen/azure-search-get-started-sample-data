@@ -1,0 +1,15 @@
+  {
+  	"key": "488",
+  	"albumTitle": "A Matter of Life and Death",
+  	"albumUrl": "/content/images/AMatterofLifeandDeath.jpg",
+  	"genre": "Rock",
+  	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+  	"artistName": "Iron Maiden",
+  	"orderableOnline": true,
+  	"tags": ["Iron", "Maiden", "Rock"],
+  	"price": 10.10,
+  	"margin": 19,
+  	"rating": 5,
+  	"inventory": 837,
+  	"lastUpdated": "2011-09-06T18:55:33Z"
+  }

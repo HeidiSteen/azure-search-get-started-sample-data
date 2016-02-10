@@ -1,0 +1,15 @@
+{
+	"key": "480",
+	"albumTitle": "Chronicle, Vol. 2",
+	"albumUrl": "/content/images/Chronicle,Vol2.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Creedence Clearwater Revival",
+	"orderableOnline": true,
+	"tags": ["Creedence", "Clearwater", "Revival", "Rock"],
+	"price": 13.13,
+	"margin": 99,
+	"rating": 1,
+	"inventory": 365,
+	"lastUpdated": "2013-02-01T05:21:03Z"
+}

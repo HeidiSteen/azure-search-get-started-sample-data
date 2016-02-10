@@ -1,0 +1,15 @@
+{
+	"key": "605",
+	"albumTitle": "Seventh Son of a Seventh Son",
+	"albumUrl": "/content/images/SeventhSonofaSeventhSon.jpg",
+	"genre": "Metal",
+	"genreDescription": "Heavy Metal is a loud, aggressive style of Rock music. The bands who play heavy-metal music usually have one or two guitars, a bass guitar and drums. In some bands, electronic keyboards, organs, or other instruments are used. Heavy metal songs are loud and powerful-sounding, and have strong rhythms that are repeated. There are many different types of Heavy Metal, some of which are described below. Heavy metal bands sometimes dress in jeans, leather jackets, and leather boots, and have long hair. Heavy metal bands sometimes behave in a dramatic way when they play their instruments or sing. However, many heavy metal bands do not like to do this.",
+	"artistName": "Iron Maiden",
+	"orderableOnline": false,
+	"tags": ["Iron", "Maiden", "Metal"],
+	"price": 13.55,
+	"margin": 11,
+	"rating": 3,
+	"inventory": 865,
+	"lastUpdated": "2010-07-30T23:09:39Z"
+}

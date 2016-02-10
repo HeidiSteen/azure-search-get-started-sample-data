@@ -1,0 +1,15 @@
+{
+	"key": "583",
+	"albumTitle": "Mezmerize",
+	"albumUrl": "/content/images/Mezmerize.jpg",
+	"genre": "Metal",
+	"genreDescription": "Heavy Metal is a loud, aggressive style of Rock music. The bands who play heavy-metal music usually have one or two guitars, a bass guitar and drums. In some bands, electronic keyboards, organs, or other instruments are used. Heavy metal songs are loud and powerful-sounding, and have strong rhythms that are repeated. There are many different types of Heavy Metal, some of which are described below. Heavy metal bands sometimes dress in jeans, leather jackets, and leather boots, and have long hair. Heavy metal bands sometimes behave in a dramatic way when they play their instruments or sing. However, many heavy metal bands do not like to do this.",
+	"artistName": "System Of A Down",
+	"orderableOnline": true,
+	"tags": ["System", "Of", "A", "Down", "Metal"],
+	"price": 13.14,
+	"margin": 17,
+	"rating": 4,
+	"inventory": 146,
+	"lastUpdated": "2012-11-16T08:42:54Z"
+}

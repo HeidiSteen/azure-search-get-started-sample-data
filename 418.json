@@ -1,0 +1,15 @@
+{
+	"key": "418",
+	"albumTitle": "The Doors",
+	"albumUrl": "/content/images/TheDoors.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "The Doors",
+	"orderableOnline": false,
+	"tags": ["The", "Doors", "Rock"],
+	"price": 6.42,
+	"margin": 11,
+	"rating": 2,
+	"inventory": 176,
+	"lastUpdated": "2012-12-10T23:18:07Z"
+}

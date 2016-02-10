@@ -1,0 +1,15 @@
+{
+	"key": "563",
+	"albumTitle": "The Best Of Billy Cobham",
+	"albumUrl": "/content/images/TheBestOfBillyCobham.jpg",
+	"genre": "Jazz",
+	"genreDescription": "Jazz is a type of music which was invented in the United States. Jazz music combines African-American music with European music. Some common jazz instruments include the saxophone, trumpet, piano, double bass, and drums.",
+	"artistName": "Billy Cobham",
+	"orderableOnline": true,
+	"tags": ["Billy", "Cobham", "Jazz"],
+	"price": 6.57,
+	"margin": 12,
+	"rating": 1,
+	"inventory": 106,
+	"lastUpdated": "2011-04-03T10:31:03Z"
+}

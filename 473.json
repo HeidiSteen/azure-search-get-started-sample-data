@@ -1,0 +1,15 @@
+{
+	"key": "473",
+	"albumTitle": "Stormbringer",
+	"albumUrl": "/content/images/Stormbringer.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Deep Purple",
+	"orderableOnline": true,
+	"tags": ["Deep", "Purple", "Rock"],
+	"price": 7.86,
+	"margin": 39,
+	"rating": 1,
+	"inventory": 792,
+	"lastUpdated": "2012-12-22T04:55:41Z"
+}

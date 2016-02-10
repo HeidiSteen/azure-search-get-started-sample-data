@@ -1,0 +1,15 @@
+{
+	"key": "464",
+	"albumTitle": "Unplugged [Live]",
+	"albumUrl": "/content/images/UnpluggedLive.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Kiss",
+	"orderableOnline": true,
+	"tags": ["Kiss", "Rock"],
+	"price": 13.42,
+	"margin": 72,
+	"rating": 1,
+	"inventory": 197,
+	"lastUpdated": "2013-01-10T17:38:09Z"
+}

@@ -1,0 +1,15 @@
+{
+	"key": "387",
+	"albumTitle": "Let There Be Rock",
+	"albumUrl": "/content/images/LetThereBeRock.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "AC/DC",
+	"orderableOnline": true,
+	"tags": ["AC/DC", "Rock"],
+	"price": 12.14,
+	"margin": 10,
+	"rating": 1,
+	"inventory": 127,
+	"lastUpdated": "2010-05-28T16:31:47Z"
+}

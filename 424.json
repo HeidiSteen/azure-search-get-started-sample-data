@@ -1,0 +1,15 @@
+{
+	"key": "424",
+	"albumTitle": "Achtung Baby",
+	"albumUrl": "/content/images/AchtungBaby.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "U2",
+	"orderableOnline": true,
+	"tags": ["U2", "Rock"],
+	"price": 6.15,
+	"margin": 11,
+	"rating": 1,
+	"inventory": 110,
+	"lastUpdated": "2011-05-31T16:29:42Z"
+}

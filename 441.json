@@ -1,0 +1,15 @@
+{
+	"key": "441",
+	"albumTitle": "Every Kind of Light",
+	"albumUrl": "/content/images/EveryKindofLight.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "The Posies",
+	"orderableOnline": true,
+	"tags": ["The", "Posies", "Rock"],
+	"price": 7.10,
+	"margin": 82,
+	"rating": 1,
+	"inventory": 103,
+	"lastUpdated": "2011-01-22T22:09:26Z"
+}

@@ -1,0 +1,15 @@
+{
+	"key": "598",
+	"albumTitle": "A Real Live One",
+	"albumUrl": "/content/images/ARealLiveOne.jpg",
+	"genre": "Metal",
+	"genreDescription": "Heavy Metal is a loud, aggressive style of Rock music. The bands who play heavy-metal music usually have one or two guitars, a bass guitar and drums. In some bands, electronic keyboards, organs, or other instruments are used. Heavy metal songs are loud and powerful-sounding, and have strong rhythms that are repeated. There are many different types of Heavy Metal, some of which are described below. Heavy metal bands sometimes dress in jeans, leather jackets, and leather boots, and have long hair. Heavy metal bands sometimes behave in a dramatic way when they play their instruments or sing. However, many heavy metal bands do not like to do this.",
+	"artistName": "Iron Maiden",
+	"orderableOnline": true,
+	"tags": ["Iron", "Maiden", "Metal"],
+	"price": 6.14,
+	"margin": 24,
+	"rating": 1,
+	"inventory": 125,
+	"lastUpdated": "2012-05-30T03:26:50Z"
+}

@@ -1,0 +1,15 @@
+{
+	"key": "402",
+	"albumTitle": "Riot Act",
+	"albumUrl": "/content/images/RiotAct.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Pearl Jam",
+	"orderableOnline": false,
+	"tags": ["Pearl", "Jam", "Rock"],
+	"price": 6.83,
+	"margin": 16,
+	"rating": 1,
+	"inventory": 206,
+	"lastUpdated": "2013-01-17T15:59:48Z"
+}

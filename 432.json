@@ -1,0 +1,15 @@
+{
+	"key": "432",
+	"albumTitle": "Diver Down",
+	"albumUrl": "/content/images/DiverDown.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Van Halen",
+	"orderableOnline": true,
+	"tags": ["Van", "Halen", "Rock"],
+	"price": 6.11,
+	"margin": 35,
+	"rating": 1,
+	"inventory": 188,
+	"lastUpdated": "2012-03-16T19:58:07Z"
+}

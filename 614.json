@@ -1,0 +1,15 @@
+{
+	"key": "614",
+	"albumTitle": "In Step",
+	"albumUrl": "/content/images/InStep.jpg",
+	"genre": "Blues",
+	"genreDescription": "The blues is a form of music that started in the United States during the start of the 20th century. It was started by former African slaves from spirituals, praise songs, and chants. The first blues songs were called Delta blues. These songs came from the area near the mouth of the Mississippi River.",
+	"artistName": "Stevie Ray Vaughan & Double Trouble",
+	"orderableOnline": true,
+	"tags": ["Stevie", "Ray", "Vaughan", "&", "Double", "Trouble", "Blues"],
+	"price": 14.13,
+	"margin": 15,
+	"rating": 5,
+	"inventory": 439,
+	"lastUpdated": "2013-01-20T04:18:59Z"
+}

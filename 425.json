@@ -1,0 +1,15 @@
+{
+	"key": "425",
+	"albumTitle": "B-Sides 1980-1990",
+	"albumUrl": "/content/images/BSides19801990.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "U2",
+	"orderableOnline": true,
+	"tags": ["U2", "Rock"],
+	"price": 10.86,
+	"margin": 31,
+	"rating": 1,
+	"inventory": 139,
+	"lastUpdated": "2012-12-25T07:57:27Z"
+}

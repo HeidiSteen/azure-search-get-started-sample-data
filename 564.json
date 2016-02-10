@@ -1,0 +1,15 @@
+{
+	"key": "564",
+	"albumTitle": "Quiet Songs",
+	"albumUrl": "/content/images/QuietSongs.jpg",
+	"genre": "Jazz",
+	"genreDescription": "Jazz is a type of music which was invented in the United States. Jazz music combines African-American music with European music. Some common jazz instruments include the saxophone, trumpet, piano, double bass, and drums.",
+	"artistName": "Aisha Duo",
+	"orderableOnline": true,
+	"tags": ["Aisha", "Duo", "Jazz"],
+	"price": 12.34,
+	"margin": 14,
+	"rating": 1,
+	"inventory": 181,
+	"lastUpdated": "2012-11-20T00:27:15Z"
+}

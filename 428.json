@@ -1,0 +1,15 @@
+{
+	"key": "428",
+	"albumTitle": "Rattle And Hum",
+	"albumUrl": "/content/images/RattleAndHum.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "U2",
+	"orderableOnline": false,
+	"tags": ["U2", "Rock"],
+	"price": 13.18,
+	"margin": 62,
+	"rating": 1,
+	"inventory": 154,
+	"lastUpdated": "2012-12-17T13:44:00Z"
+}

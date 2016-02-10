@@ -1,0 +1,15 @@
+{
+	"key": "408",
+	"albumTitle": "By The Way",
+	"albumUrl": "/content/images/ByTheWay.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Red Hot Chili Peppers",
+	"orderableOnline": true,
+	"tags": ["Red", "Hot", "Chili", "Peppers", "Rock"],
+	"price": 6.19,
+	"margin": 20,
+	"rating": 3,
+	"inventory": 185,
+	"lastUpdated": "2012-06-12T07:12:34Z"
+}

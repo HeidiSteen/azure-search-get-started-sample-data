@@ -1,0 +1,15 @@
+{
+	"key": "439",
+	"albumTitle": "Balls to the Wall",
+	"albumUrl": "/content/images/BallstotheWall.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Accept",
+	"orderableOnline": true,
+	"tags": ["Accept", "Rock"],
+	"price": 6.10,
+	"margin": 33,
+	"rating": 2,
+	"inventory": 209,
+	"lastUpdated": "2013-02-26T22:10:13Z"
+}

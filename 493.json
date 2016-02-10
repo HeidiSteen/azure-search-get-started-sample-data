@@ -1,0 +1,15 @@
+{
+	"key": "493",
+	"albumTitle": "Rock In Rio [CD2]",
+	"albumUrl": "/content/images/RockInRioCD2.jpg",
+	"genre": "Rock",
+	"genreDescription": "Rock and Roll is a form of rock music developed in the 1950s and 1960s. Rock music combines many kinds of music from the United States, such as country music, folk music, church music, work songs, blues and jazz.",
+	"artistName": "Iron Maiden",
+	"orderableOnline": true,
+	"tags": ["Iron", "Maiden", "Rock"],
+	"price": 6.16,
+	"margin": 73,
+	"rating": 1,
+	"inventory": 232,
+	"lastUpdated": "2010-09-27T13:59:51Z"
+}
