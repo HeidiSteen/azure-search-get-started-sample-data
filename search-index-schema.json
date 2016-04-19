@@ -1,5 +1,6 @@
 {
   "fields": [
+    {"name": "Id", "tidype": "Edm.String", "key": true, "searchable": false},
     { "name": "albumTitle", "type": "Edm.String", "suggestions": true },
     { "name": "albumUrl", "type": "Edm.String", "filterable": false },
     { "name": "genre", "type": "Edm.String" },
